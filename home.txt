@@ -9,3 +9,12 @@
 @@||ad.doubleclick.net^$important
 @@||dartsearch.net^$important
 @@||googleadservices.com^$important
+@@||dev.to^$important
+# für die Bild
+@@||www.asadcdn.com^$important
+@@||autobild.de^$important
+@@||bild.de^$important
+@@||www.bild.de^$important
+# Amazon
+@@||amazon.de^$important
+@@||amazon.com^$important
