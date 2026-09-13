@@ -1,0 +1,20 @@
+@@||s.click.aliexpress.com^$important
+@@||googleads.g.doubleclick.net^$important
+@@||meinkonto.telekom-dienste.de^$important
+@@||mparticle.weather.com^$important
+@@||traffic.outbrain.com^$important
+@@||www.ojrq.net^$important
+@@||src.ebay-us.com^$important
+@@||www.googleadservices.com^
+@@||ad.doubleclick.net^$important
+@@||dartsearch.net^$important
+@@||googleadservices.com^$important
+@@||dev.to^$important
+# für die Bild
+@@||www.asadcdn.com^$important
+@@||autobild.de^$important
+@@||bild.de^$important
+@@||www.bild.de^$important
+# Amazon
+@@||amazon.de^$important
+@@||amazon.com^$important
