@@ -1,0 +1,28 @@
+! Matrix-Server inkl. aller Subdomains (rtc, MAS, .well-known)
+@@||matrix.reimer42.de^
+@@||chat.rmr42.de
+@@||chat.reimer42.de
+! Push Android
+@@||fcm.googleapis.com^
+@@||mtalk.google.com^
+@@||firebaseinstallations.googleapis.com^
+! Push iPhone
+@@||push.apple.com^
+! Android Verbindungsprüfung
+@@||connectivitycheck.gstatic.com^
+@@||connectivitycheck.android.com^
+@@||clients3.google.com^
+! Domain Freigaben
+@@||remote.reimer42.de
+@@||verify.reimer42.de
+@@||dbrs-gifhorn.de
+@@||dbrs-gf.de
+@@||gswesendorf.de
+@@||stein-schule.de
+@@||fvs-gf.de
+@@||vdo.rmr42.de
+@@||audio.ecbg-hasenberg.de
+@@||stream.reimer42.vpn64.de
+@@||gottesdienst.stream.reimer42.vpn64.de
+@@||posthog.element.io^$important
+@@||sentry.tools.element.io^$important
